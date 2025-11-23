@@ -1,0 +1,5 @@
+Makanan|Mie Ayam : 4|20000.0|makanan|berat
+Minuman|Es Teh Manis = 5000|1.0|minuman|1
+Makanan|Mie Ayam|20000.0|makanan|berat
+Minuman|Es Teh|5000.0|minuman|dingin
+Diskon|Promo|0.0|diskon|10.0|50000.0|all

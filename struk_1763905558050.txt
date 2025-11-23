@@ -1,0 +1,11 @@
+STRUK PEMESANAN
+-----------------------------------
+1. Mie Ayam x4 - Rp 80000
+2. Es Teh x4 - Rp 20000
+-----------------------------------
+Subtotal: Rp 100000
+Diskon: Rp 10000
+Pajak 10%: Rp 9000
+Biaya pelayanan: Rp 20000
+-----------------------------------
+GRAND TOTAL: Rp 119000

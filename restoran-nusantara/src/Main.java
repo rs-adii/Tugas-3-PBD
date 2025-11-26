@@ -9,7 +9,7 @@ public class Main {
         try { menu.loadFromFile(); } catch (IOException e) { System.out.println("Tidak dapat memuat menu: " + e.getMessage()); }
 
         while (true) {
-            System.out.println("\n=== SISTEM MANAJEMEN RESTORAN (TUGAS PRAKTIK 3) ===");
+            System.out.println("\n=== SISTEM MANAJEMEN RESTORAN NUSANTAR ===");
             System.out.println("1. Tampilkan Menu Restoran");
             System.out.println("2. Tambah Item Menu");
             System.out.println("3. Ubah Harga Item");
